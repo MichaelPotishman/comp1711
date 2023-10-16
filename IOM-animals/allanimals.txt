@@ -1,0 +1,299 @@
+amphibians.txt:great crested newt, triturus cristatus
+amphibians.txt:smooth newt, triturus vulgaris
+amphibians.txt:palmate newt, triturus helveticus
+amphibians.txt:common toad, bufo bufo
+amphibians.txt:common frog, rana temporaria
+birds.txt:red-throated diver, gavia stellata
+birds.txt:black-throated diver, gavia arctica
+birds.txt:great northern diver, gavia immer
+birds.txt:little grebe, tachybaptus ruficollis
+birds.txt:slavonian grebe, podiceps auritus
+birds.txt:storm petrel, hydrobates pelagicus
+birds.txt:manx shearwater, puffinus puffinus
+birds.txt:fulmar, fulmarus glacialis
+birds.txt:gannet, morus bassanus
+birds.txt:cormorant, phalacrocorax carbo
+birds.txt:shag, phalacrocorax aristotelis
+birds.txt:bittern, botaurus stellaris
+birds.txt:grey heron, ardea cinerea
+birds.txt:mute swan, cygnus olor
+birds.txt:whooper swan, cygnus cygnus
+birds.txt:pink-footed goose, anser brachyrynchus
+birds.txt:greylag goose, anser anser
+birds.txt:canada goose, branta canadensis
+birds.txt:brent goose, branta bernicla
+birds.txt:shelduck, tadorna tadorna
+birds.txt:wigeon, anas penelope
+birds.txt:gadwall, anas strepera
+birds.txt:teal, anas crecca
+birds.txt:mallard, anus platyrhynchos
+birds.txt:shoveler, anas clypeata
+birds.txt:pochard, aythya ferina
+birds.txt:tufted duck, aythya fuligula
+birds.txt:scaup, aythya marila
+birds.txt:eider, somateria mollissima
+birds.txt:long-tailed duck, clangula hyemalis
+birds.txt:common scoter, melanitta nigra
+birds.txt:velvet scoter, melanitta fusca
+birds.txt:goldeneye, bucephala clangula
+birds.txt:red-breasted merganser, mergus serrator
+birds.txt:goosander, mergus merganser
+birds.txt:ruddy duck, oxyura jamaicensis
+birds.txt:sparrowhawk, accipiter nisus
+birds.txt:hen harrier, circus cyaneus
+birds.txt:white-tailed eagle, haliaeetus albicilla
+birds.txt:kestrel, falco tinnunculus
+birds.txt:merlin, falco columbarius
+birds.txt:peregrine, falco peregrinus
+birds.txt:red-legged partridge, alectoris rufa
+birds.txt:grey partridge, perdix perdix
+birds.txt:quail, coturnix coturnix
+birds.txt:black grouse, tetrao tetrix†
+birds.txt:red grouse, lagopus lagopus scoticus
+birds.txt:pheasant, phasianus colchicus
+birds.txt:water rail, rallus aquaticus
+birds.txt:corncrake, crex crex
+birds.txt:coot, fulica atra
+birds.txt:oystercatcher, haematopus ostralegus
+birds.txt:curlew, numenius arguata
+birds.txt:woodcock, scolopax rusticola
+birds.txt:snipe, gallinago gallinago
+birds.txt:herring gull, larsus argentatus
+birds.txt:great black-backed gull, larsus marinus
+birds.txt:puffin, fratercula arctica
+birds.txt:razorbill, alca torda
+birds.txt:woodpigeon, columba palumbus
+birds.txt:collared dove, streptopelia decaocto
+birds.txt:barn owl, tyto alba
+birds.txt:swallow, hirundo rustica
+birds.txt:grey wagtail, motacilla cinerea
+birds.txt:pied wagtail, motacilla alba yarrellii
+birds.txt:wren, troglodytes troglodytes
+birds.txt:dunnock, prunella modularis
+birds.txt:robin, erithacus rubecula
+birds.txt:blackbird, turdus merula
+birds.txt:song thrush, turdus philomelos
+birds.txt:willow warbler, phylloscopus trochilus
+birds.txt:goldcrest, regulus regulus
+birds.txt:blue tit, parus caeruleus
+birds.txt:great tit, parus major
+birds.txt:coal tit, parus ater
+birds.txt:long-tailed tit, aegithalos caudatus
+birds.txt:starling, sturnus vulgaris
+birds.txt:magpie, pica pica
+birds.txt:jackdaw, corvus monedula
+birds.txt:raven, corvus corax
+birds.txt:carrion crow, corvus corax
+birds.txt:hooded crow, corvus cornix
+birds.txt:chough, phyrocorrax phyrocorrax
+birds.txt:rook, corvus frugilegus
+birds.txt:house sparrow, passer domesticus
+birds.txt:common chaffinch, fringilla coelebs
+birds.txt:goldfinch, carduelis chloris
+birds.txt:greenfinch, carduelis chloris
+birds.txt:corn bunting, miliaria calandra
+insects.txt:chrysops vulgaris
+insects.txt:chrysops ventralis
+insects.txt:hemerobius lutescens
+insects.txt:micromus veriegatus
+insects.txt:limnophilus auricula
+insects.txt:limnophilus flavicornis
+insects.txt:limnophilus elegans
+insects.txt:common hawker, aeshna juncea
+insects.txt:brown hawker, aeshna grandis
+insects.txt:migrant hawker, aeshna mixta
+insects.txt:common darter, sympetrum striolatum
+insects.txt:black darter, sympetrum danae
+insects.txt:red-veined darter, sympetrum fonscolombi
+insects.txt:ruddy darter, sympetrum sanguineum
+insects.txt:four-spotted chaser, libellula quadrimaculata
+insects.txt:downy emerald, cordulia aenea
+insects.txt:keeled skimmer, orthetrum coerulescens
+insects.txt:emperor dragonfly, anax imperator
+insects.txt:common blue damselfly, enallagma cyathigerum
+insects.txt:blue-tailed damselfly, ischnura elegans
+insects.txt:golden-ringed dragonfly, cordulegaster boltonii
+insects.txt:large red damselfly, pyrrhosoma nymphula
+insects.txt:emerald damselfly, lestes sponsa
+insects.txt:dark bush-cricket, pholidoptera griseoaptera
+insects.txt:speckled bush-cricket, leptophyes punctatissima
+insects.txt:lesser mottled grasshopper, stenobothrus stigmaticus
+insects.txt:common green grasshopper, omocestus viridulus
+insects.txt:common earwig, forficula auricularia
+insects.txt:bibio marci
+insects.txt:bibio reticulatus
+insects.txt:bombylius canescens
+insects.txt:bombylius minor, heath bee-fly
+insects.txt:calliphora vomitoria
+insects.txt:cheilosia rosarum
+insects.txt:machimus cowini, manx robber fly
+insects.txt:agrothereutes abbreviata
+insects.txt:andrena clarkella
+insects.txt:andrena denticulata
+insects.txt:andrena labilis
+insects.txt:bombus agrorum
+insects.txt:bombus lucorum
+insects.txt:bombus muscorum
+insects.txt:crabo cribarius
+insects.txt:dolerus liogaster
+insects.txt:dolerus cothurnatus
+insects.txt:halictus calceatus
+insects.txt:lissonata bellator
+insects.txt:myrmica ruginodis
+insects.txt:parabates cristatus
+insects.txt:pontania viminalis
+insects.txt:psythyrus campestris
+insects.txt:spilichneumon occisorius
+insects.txt:trichoma enecator
+insects.txt:large white, pieris brassicae
+insects.txt:small white, pieris rapae
+insects.txt:green-veined white, pieris napi
+insects.txt:orange tip, anthocharis cardamines
+insects.txt:small copper, lycaena phlaeas
+insects.txt:common blue, polyommatus icarus
+insects.txt:holly blue, celastrina argiolus
+insects.txt:grayling, hipparchia semele
+insects.txt:speckled wood, pararge aegeria[1]
+insects.txt:meadow brown, maniola jurtina
+insects.txt:wall, lasiommata megera
+insects.txt:small heath, coenonympha pamphilus
+insects.txt:dark green fritillary, argynnis aglaja
+insects.txt:red admiral, vanessa atalanta
+insects.txt:small tortoiseshell, aglais urticae
+insects.txt:peacock, inachis io
+insects.txt:comma, polygonia c-album[1]
+insects.txt:painted lady, cynthia cardui
+insects.txt:ringlet, aphantopus hyperantus†
+insects.txt:cinnabar moth, tyria jacobaeae
+insects.txt:peppered moth, biston betularia
+insects.txt:garden carpet, xanthorhoe fluctuata
+insects.txt:silver ground carpet, xanthorhoe montanata montanata
+insects.txt:elephant hawkmoth, deilephila elpenor
+insects.txt:death's head hawkmoth, acherontia atropos
+insects.txt:puss moth, cerura vinula
+insects.txt:silver y, autographa gamma f. gammina
+insects.txt:ingrailed clay, diarsia mendica mendica
+insects.txt:acanthosoma haemorrhoidale (hawthorn shield bug)
+insects.txt:capsus meriopterus (a broom myrid)
+insects.txt:corixa praeusta (a water boatman)
+insects.txt:herris lacustris (common pondskater)
+insects.txt:hydrometra stagnorum (water-measurer)
+insects.txt:myzus cerasi
+insects.txt:peizodorus lituratus
+insects.txt:plagiognathus arbustorum
+insects.txt:sybsigara fossarum
+insects.txt:subsigara scotti
+insects.txt:velua currens
+latin_names_birds_sorted: accipiter nisus
+latin_names_birds_sorted: aegithalos caudatus
+latin_names_birds_sorted: alca torda
+latin_names_birds_sorted: alectoris rufa
+latin_names_birds_sorted: anas clypeata
+latin_names_birds_sorted: anas crecca
+latin_names_birds_sorted: anas penelope
+latin_names_birds_sorted: anas strepera
+latin_names_birds_sorted: anser anser
+latin_names_birds_sorted: anser brachyrynchus
+latin_names_birds_sorted: anus platyrhynchos
+latin_names_birds_sorted: ardea cinerea
+latin_names_birds_sorted: aythya ferina
+latin_names_birds_sorted: aythya fuligula
+latin_names_birds_sorted: aythya marila
+latin_names_birds_sorted: botaurus stellaris
+latin_names_birds_sorted: branta bernicla
+latin_names_birds_sorted: branta canadensis
+latin_names_birds_sorted: bucephala clangula
+latin_names_birds_sorted: carduelis chloris
+latin_names_birds_sorted: carduelis chloris
+latin_names_birds_sorted: circus cyaneus
+latin_names_birds_sorted: clangula hyemalis
+latin_names_birds_sorted: columba palumbus
+latin_names_birds_sorted: corvus corax
+latin_names_birds_sorted: corvus corax
+latin_names_birds_sorted: corvus cornix
+latin_names_birds_sorted: corvus frugilegus
+latin_names_birds_sorted: corvus monedula
+latin_names_birds_sorted: coturnix coturnix
+latin_names_birds_sorted: crex crex
+latin_names_birds_sorted: cygnus cygnus
+latin_names_birds_sorted: cygnus olor
+latin_names_birds_sorted: erithacus rubecula
+latin_names_birds_sorted: falco columbarius
+latin_names_birds_sorted: falco peregrinus
+latin_names_birds_sorted: falco tinnunculus
+latin_names_birds_sorted: fratercula arctica
+latin_names_birds_sorted: fringilla coelebs
+latin_names_birds_sorted: fulica atra
+latin_names_birds_sorted: fulmarus glacialis
+latin_names_birds_sorted: gallinago gallinago
+latin_names_birds_sorted: gavia arctica
+latin_names_birds_sorted: gavia immer
+latin_names_birds_sorted: gavia stellata
+latin_names_birds_sorted: haematopus ostralegus
+latin_names_birds_sorted: haliaeetus albicilla
+latin_names_birds_sorted: hirundo rustica
+latin_names_birds_sorted: hydrobates pelagicus
+latin_names_birds_sorted: lagopus lagopus scoticus
+latin_names_birds_sorted: larsus argentatus
+latin_names_birds_sorted: larsus marinus
+latin_names_birds_sorted: melanitta fusca
+latin_names_birds_sorted: melanitta nigra
+latin_names_birds_sorted: mergus merganser
+latin_names_birds_sorted: mergus serrator
+latin_names_birds_sorted: miliaria calandra
+latin_names_birds_sorted: morus bassanus
+latin_names_birds_sorted: motacilla alba yarrellii
+latin_names_birds_sorted: motacilla cinerea
+latin_names_birds_sorted: numenius arguata
+latin_names_birds_sorted: oxyura jamaicensis
+latin_names_birds_sorted: parus ater
+latin_names_birds_sorted: parus caeruleus
+latin_names_birds_sorted: parus major
+latin_names_birds_sorted: passer domesticus
+latin_names_birds_sorted: perdix perdix
+latin_names_birds_sorted: phalacrocorax aristotelis
+latin_names_birds_sorted: phalacrocorax carbo
+latin_names_birds_sorted: phasianus colchicus
+latin_names_birds_sorted: phylloscopus trochilus
+latin_names_birds_sorted: phyrocorrax phyrocorrax
+latin_names_birds_sorted: pica pica
+latin_names_birds_sorted: podiceps auritus
+latin_names_birds_sorted: prunella modularis
+latin_names_birds_sorted: puffinus puffinus
+latin_names_birds_sorted: rallus aquaticus
+latin_names_birds_sorted: regulus regulus
+latin_names_birds_sorted: scolopax rusticola
+latin_names_birds_sorted: somateria mollissima
+latin_names_birds_sorted: streptopelia decaocto
+latin_names_birds_sorted: sturnus vulgaris
+latin_names_birds_sorted: tachybaptus ruficollis
+latin_names_birds_sorted: tadorna tadorna
+latin_names_birds_sorted: tetrao tetrix†
+latin_names_birds_sorted: troglodytes troglodytes
+latin_names_birds_sorted: turdus merula
+latin_names_birds_sorted: turdus philomelos
+latin_names_birds_sorted: tyto alba
+mammals.txt:common pipistrelle, pipistrellus pipistrellus
+mammals.txt:whiskered bat, myotis mystacinus
+mammals.txt:natterer's bat, myotis nattereri
+mammals.txt:daubenton's bat, myotis daubentonii
+mammals.txt:leisler's bat, nyctalus leisleri
+mammals.txt:soprano pipistrelle, pipistrellus pygmaeus
+mammals.txt:brown long-eared bat, plecotus auritus
+mammals.txt:mountain hare, lepus timidus
+mammals.txt:european hare, lepus europaeus
+mammals.txt:european rabbit, oryctolagus cuniculus
+mammals.txt:european hedgehog, erinaceus europaeus
+mammals.txt:pygmy shrew, sorex minutus
+mammals.txt:wood mouse, apodemus sylvaticus
+mammals.txt:house mouse, mus domesticus
+mammals.txt:brown rat, rattus norvegicus
+mammals.txt:stoat, mustela erminea hibernica
+mammals.txt:ferret, mustela furo
+mammals.txt:irish elk, megaloceros giganteus
+mammals.txt:grey seal, halichoerus grypus
+mammals.txt:common seal, phoca vitulina
+mammals.txt:human, homo sapiens
+mammals.txt:domestic goat, capra hircus
+mammals.txt:red-necked wallaby, macropus rufogriseus
+reptiles.txt:common lizard, zootoca vivipara
